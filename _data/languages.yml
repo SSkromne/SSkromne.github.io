@@ -1,0 +1,11 @@
+- name: Spanish
+  percentage: 100
+  color: warning
+
+- name: English
+  percentage: 100
+  color: default
+
+- name: French
+  percentage: 85
+  color: light

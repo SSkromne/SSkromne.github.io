@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Sofia
+title               : Sofia Skromne Carrasco
 description         : >-
                       PhD Candidate at McGill University,
                       specializing in <i>in vivo</i> 
@@ -25,10 +25,10 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Sofia Skromne Carrasco
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : /image_paris.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : sofia.skromnecarrasco [at] mail.mcgill.ca
 # facebook          : your_username
   github            : SSkromne
 # gitlab            : your_username
