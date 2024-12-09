@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Months-long stability of the head-direction system
+tools: [calcium imaging, longitudinal]
+image: /miniscope.png
+description: By longitudinally tracking head-direction cells for several months, we show that the internal organization of population activity is preserved, as well as the mapping between this internal organization and the external world.
+external_url: https://www.biorxiv.org/content/10.1101/2024.06.13.598909v1
 ---
