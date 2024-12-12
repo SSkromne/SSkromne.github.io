@@ -6,7 +6,7 @@ weight: 3
 ---
 
 # **Selected Awards and Scholarships**
-<br>
+![hippocampal-ripples](/ripples.svg)
 Vanier Canada Graduate Scholarships <br><br>
 Fonds de Recherche du Quebec - Santé<br><br>
 McGill Graduate Mobility Award<br><br>
