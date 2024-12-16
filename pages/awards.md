@@ -4,9 +4,9 @@ title: Awards
 permalink: /awards/
 weight: 3
 ---
-
-# **Selected Awards and Scholarships**
 ![hippocampal-ripples](/ripples.svg)
+# **Selected Awards and Scholarships**
+<br>
 Vanier Canada Graduate Scholarships <br><br>
 Fonds de Recherche du Quebec - Santé<br><br>
 McGill Graduate Mobility Award<br><br>
