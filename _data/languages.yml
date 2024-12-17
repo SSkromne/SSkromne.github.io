@@ -8,4 +8,4 @@
 
 - name: French
   percentage: 85
-  color: light
+  color: danger
