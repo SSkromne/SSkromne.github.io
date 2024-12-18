@@ -12,7 +12,7 @@ Currently a PhD Candidate at McGill University studying the Head-Direction syste
 
 <div class="row">
 {% include about/skills.html title="<i>in vivo</i> Electrophysiology" source=site.data.ephys-skills %}
-{% include about/skills.html title="Calcium Imaging" source=site.data.ca2-skills %}
+{% include about/skills.html title="<i>in vivo</i> Calcium Imaging" source=site.data.ca2-skills %}
 </div>
 
 <div class="row">
