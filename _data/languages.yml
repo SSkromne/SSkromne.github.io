@@ -1,11 +1,11 @@
-- name: Spanish
+- name: Spanish [Fluent]
   percentage: 100
   color: warning
 
-- name: English
+- name: English [Fluent]
   percentage: 100
   color: warning
 
-- name: French
+- name: French [Advanced]
   percentage: 85
   color: warning

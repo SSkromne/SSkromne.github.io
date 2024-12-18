@@ -1,19 +1,3 @@
-- name: Chronic single and double silicon probe implantation
+- name:
   percentage: 100
-  color: info
-
-- name: Chronic tetrode making and implantation
-  percentage: 100
-  color: info
-
-- name: Optogenetic manipulation
-  percentage: 100
-  color: info
-
-- name: Freely-moving recordings
-  percentage: 100
-  color: info
-
-- name: Head-fixed recordings
-  percentage: 100
-  color: info
+  color: default
