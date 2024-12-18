@@ -1,0 +1,12 @@
+- name: Viral injections & GRIN lens implantation
+  percentage: 100
+  color: success
+
+- name: 1-photon Miniscope longitudinal recordings
+  percentage: 100
+  color: success
+
+- name: UCLA V4 Miniscope assembly
+  percentage: 90
+  color: success
+
