@@ -7,6 +7,7 @@ weight: 3
 ![hippocampal-ripples](/ripples.svg)
 # **Selected Awards and Scholarships**
 <br>
+Ann and Richard Sievers Award <br><br>
 Vanier Canada Graduate Scholarships <br><br>
 Fonds de Recherche du Quebec - Santé<br><br>
 McGill Graduate Mobility Award<br><br>
